@@ -18,15 +18,18 @@ namespace BulkyBookWeb.Migrations
 
             modelBuilder.Entity("BulkyBookWeb.Models.Category", b =>
                 {
-                    b.Property<int>("CategoryIdentification")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("DisplayOrder")
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.HasKey("CategoryIdentification");
+                    b.HasKey("Id");
 
                     b.ToTable("Categories");
                 });

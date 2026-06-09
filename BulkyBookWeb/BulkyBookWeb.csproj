@@ -19,4 +19,17 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 1.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 2.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 3.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 4.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 5.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 6.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 7.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\Book Image\Book 8.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\book.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\Images\confirmed.png" />
+    </ItemGroup>
+
 </Project>
