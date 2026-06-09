@@ -7,10 +7,12 @@ namespace BulkyBookWeb.Controllers;
 public class CategoryController : Controller
 {
     private readonly ApplicationDbContext _context;
+
     public CategoryController(ApplicationDbContext context)
     {
         _context = context;
     }
+
     // GET
     public IActionResult Index()
     {
@@ -28,8 +30,18 @@ public class CategoryController : Controller
     [ActionName("Create")]
     public IActionResult CreatePOST(Category category)
     {
-        _context.Categories.Add(category);
-        _context.SaveChanges();
-        return RedirectToAction("Index");
+        if (!String.IsNullOrEmpty(category.Name) && _context.Categories.Any(c => c.Name == category.Name.ToLower()))
+        {
+            ModelState.AddModelError("", "Category name already exists!");
+        }
+
+        if (ModelState.IsValid)
+        {
+            _context.Categories.Add(category);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        return View();
     }
 }
