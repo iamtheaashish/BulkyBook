@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iamtheaashish\\Documents\\BulkyBook\\",
+  "WorkspaceRootPath": "D:\\BulkyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iamtheaashish\\Documents\\BulkyBook\\BulkyBookWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBookWeb\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBookWeb\\Views\\Category\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BulkyBook\\BulkyBookWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBookWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\iamtheaashish\\Documents\\BulkyBook\\BulkyBookWeb\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\iamtheaashish\\Documents\\BulkyBook\\BulkyBookWeb\\Program.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCIAAAA6AAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T02:07:33.816Z",
+              "WhenOpened": "2026-06-10T11:09:28.549Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BulkyBookWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:08:17.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Program.cs",
+              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Program.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T02:07:33.816Z"
             }
           ]
         }

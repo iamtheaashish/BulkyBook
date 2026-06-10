@@ -33,18 +33,19 @@ public class CategoryController : Controller
             ModelState.AddModelError("", "Category name already exists!");
         }
 
-        if(ModelState.IsValid)
+        if (ModelState.IsValid)
         {
             _context.Categories.Add(category);
             _context.SaveChanges();
+            TempData["success"] = "Category created successfully.";
             return RedirectToAction("Index");
         }
-        return View();
+        return View(category);
     }
 
     public IActionResult Update(int? id)
     {
-        if(id==null || id == 0)
+        if (id == null || id == 0)
         {
             return NotFound();
         }
@@ -63,7 +64,7 @@ public class CategoryController : Controller
     [ActionName("Update")]
     public IActionResult UpdatePOST(Category category)
     {
-        if (!String.IsNullOrEmpty(category.Name) && 
+        if (!String.IsNullOrEmpty(category.Name) &&
             _context.Categories.Any(c => c.Name == category.Name.ToLower() && c.Id != category.Id))
         {
             ModelState.AddModelError("", "Category name already exists!");
@@ -73,11 +74,12 @@ public class CategoryController : Controller
         {
             _context.Categories.Update(category);
             _context.SaveChanges();
+            TempData["success"] = "Category updated successfully.";
             return RedirectToAction("Index");
         }
         return View();
     }
-}
+
 
     public IActionResult Delete(int? id)
     {
@@ -107,6 +109,7 @@ public class CategoryController : Controller
         }
         _context.Categories.Remove(category);
         _context.SaveChanges();
+        TempData["success"] = "Category deleted successfully.";
         return RedirectToAction("Index");
     }
 }
