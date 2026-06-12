@@ -1,42 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BulkyBook\\",
+  "WorkspaceRootPath": "D:\\Documents\\BulkyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B383DC40-B7F5-416D-9904-F377C5B03319}|BulkyBook.Business\\BulkyBook.Business.csproj|d:\\documents\\bulkybook\\bulkybook.business\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B383DC40-B7F5-416D-9904-F377C5B03319}|BulkyBook.Business\\BulkyBook.Business.csproj|solutionrelative:bulkybook.business\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B383DC40-B7F5-416D-9904-F377C5B03319}|BulkyBook.Business\\BulkyBook.Business.csproj|d:\\documents\\bulkybook\\bulkybook.business\\services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B383DC40-B7F5-416D-9904-F377C5B03319}|BulkyBook.Business\\BulkyBook.Business.csproj|solutionrelative:bulkybook.business\\services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\documents\\bulkybook\\bulkybookweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\bulkybook\\bulkybookweb\\migrations\\20260610025940_addvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\migrations\\20260610025940_addvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|d:\\documents\\bulkybook\\bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69798DC1-BF0D-4F96-8890-7E9E858489AE}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,119 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T15:29:02.241Z",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Documents\\BulkyBook\\BulkyBook.Business\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Business\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Documents\\BulkyBook\\BulkyBook.Business\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BulkyBook.Business\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:42:09.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T12:03:55.899Z",
+              "DocumentIndex": 1,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Documents\\BulkyBook\\BulkyBook.Business\\Services\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Business\\Services\\IServices\\ICategoryService.cs",
+              "ToolTip": "D:\\Documents\\BulkyBook\\BulkyBook.Business\\Services\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "BulkyBook.Business\\Services\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:32:57.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\Documents\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Documents\\BulkyBook\\BulkyBookWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BulkyBookWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAwwCcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T03:00:45.158Z",
+              "WhenOpened": "2026-06-11T06:25:38.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T03:20:57.498Z",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\BulkyBook\\BulkyBookWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\Program.cs",
+              "ToolTip": "D:\\Documents\\BulkyBook\\BulkyBookWeb\\Program.cs",
+              "RelativeToolTip": "BulkyBookWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:22:23.168Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Category\\Update.cshtml",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T04:41:59.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T02:57:02.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Models\\Category.cs",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Models\\Category.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T02:57:06.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "BulkyBookWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-10T03:16:03.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260610025940_AddValidation.cs",
-              "DocumentMoniker": "D:\\BulkyBook\\BulkyBookWeb\\Migrations\\20260610025940_AddValidation.cs",
-              "RelativeDocumentMoniker": "BulkyBookWeb\\Migrations\\20260610025940_AddValidation.cs",
-              "ToolTip": "D:\\BulkyBook\\BulkyBookWeb\\Migrations\\20260610025940_AddValidation.cs",
-              "RelativeToolTip": "BulkyBookWeb\\Migrations\\20260610025940_AddValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T02:59:40.559Z"
             }
           ]
         }
